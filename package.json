@@ -9,7 +9,6 @@
     "wrangler": "^4.60.0"
   },
   "scripts": {
-    "format": "prettier --write '**/*.{js,css,json,md}'",
     "dev": "npx wrangler dev src/index.js --env dev"
   },
   "license": "MIT",
