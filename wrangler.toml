@@ -8,3 +8,5 @@ local_protocol = "http"
 
 [env.vars]
 CUSTOM_DOMAIN = "eastcoal.tech"
+
+[env.production]
