@@ -7,3 +7,8 @@ port = 8787
 local_protocol = "http"
 
 [env.production]
+
+[observability]
+[observability.logs]
+enabled = false
+invocation_logs = true
